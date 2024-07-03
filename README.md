@@ -292,7 +292,7 @@ public String getMemo(){
             case "006" -> "64 GB";
             case "007" -> "128 GB";
             case "008" -> "256 GB";
-            default -> "Warna Tidak Ada";
+            default -> "Memo Tidak Ada";
         };
         
 }
